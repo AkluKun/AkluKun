@@ -16,22 +16,22 @@
 
 <!-- Intro  -->
 <h3 align="center">
-        <samp>&gt; Olá! Eu sou Desenvolvedor Multiplataforma brasileiro </samp>
+        <samp>&gt; Olá! Eu sou Luka Andrade!  </samp>
 </h3>
 
 <p align="center">
 
- <a href="#" target="_blank">
+ <a href="www.linkedin.com/in/leticia-andrade-da-silva" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="AkluKun"/>
  </a>
  <!-- <a href="https://dev.to/AkluKun" target="_blank">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="AkluKun" />
  </a> -->
 
- <a href="#" target="_blank">
+ <a href="www.instagram.com/lxh._.and" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="AkluKun" />
  </a> 
- <a href="#" target="_blank">
+ <a href="www.github.com/AkluKun" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="AkluKun"  />
   </a> 
 </p>
@@ -43,9 +43,9 @@
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
- ✌️ &emsp; Fale de Você<br/><br/>
- ❤️ &emsp; Frase de impactobr/><br/>
- <!-- 📧 &emsp; Contas principais: <br/><br/> -->
+ ✌️ &emsp; Sou um Estudante de Desenvolvimento Web <br/><br/>
+ ❤️ &emsp;  <br/><br/>
+ 📧 &emsp; Conta principal: leticiaandradesilva613@gmail.com <br/><br/>
  💬 &emsp; Saiba mais  <a href="https://aklukun.github.io/AkluKun" target="_blank">clicando aqui!</a>
 
 </p>
@@ -83,8 +83,8 @@
 <!-- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) -->
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+<!-- ![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) -->
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
