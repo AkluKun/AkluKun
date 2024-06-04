@@ -44,7 +44,7 @@
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
  ✌️ &emsp; Sou um Estudante de Desenvolvimento Web <br/><br/>
- ❤️ &emsp;  <br/><br/>
+ ❤️ &emsp; Brasileiro <br/><br/>
  📧 &emsp; Conta principal: leticiaandradesilva613@gmail.com <br/><br/>
  💬 &emsp; Saiba mais  <a href="https://aklukun.github.io/AkluKun" target="_blank">clicando aqui!</a>
 
